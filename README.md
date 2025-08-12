@@ -1,2 +1,3 @@
 # mansi_project
-new project
+a.java
+b.java
